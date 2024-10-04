@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Project_Seminar.Models.HangHoaVM>
+<!-- Khai báo để View nhận được 1 danh sách 
+    đối tượng HangHoaVM từ Controller truyền qua
+-->
+
+@{
+    ViewData["Title"] = "Danh sách Hàng Hóa";
+}
+<meta charset="utf-8" />
+<h2 class="text-center">@ViewData["Title"]</h2>
+<!-- Categories Start -->
+<div class="container-fluid pt-5">
+    <div class="row px-xl-5 pb-3">
+        <!-- dùng foreach để duyệt những đối tượng trong Model,
+            ở đây là đối tượng HangHoaVM
+        -->
+        @foreach (var hangHoa in Model)
+        {
+            <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+                <a class="text-decoration-none" href="@Url.Action("Details", "HangHoa", new { id = hangHoa.MaHang })"><!-- URL để xử lí backend-->
+                    <div class="cat-item d-flex align-items-center mb-4">                 
+                        <div class="flex-fill pl-3">
+                            <h6>@hangHoa.MaHang</h6> <!-- Hiển thị mã hàng trong DB -->
+                            <h5>@hangHoa.TenHang</h5> <!-- Hiển thị tên hàng trong DB -->
+                            <small class="text-body">@hangHoa.SoLuongTon sản phẩm</small> <!-- Hiển thị số lượng tồn trong DB -->
+                            <p class="text-body">@hangHoa.DonGia.ToString("C")</p> <!-- Hiển thị giá trong DB -->
+                        </div>
+                    </div>
+                </a>
+
+                <!-- Nút "Thêm vào giỏ" -->
+                <div class="text-center mt-2">
+                    <a asp-controller="GioHang" asp-action="AddToCart" asp-route-id="@hangHoa.MaHang" class="btn btn-primary">
+                        Thêm vào giỏ
+                    </a>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<!-- Categories End -->
+
+
