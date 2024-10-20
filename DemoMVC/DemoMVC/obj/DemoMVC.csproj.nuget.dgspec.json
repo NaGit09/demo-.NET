@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj": {}
+  },
+  "projects": {
+    "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+        "projectName": "DemoMVC",
+        "projectPath": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+        "packagesPath": "C:\\Users\\Van Tran\\.nuget\\packages\\",
+        "outputPath": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\obj\\",
+=======
     "C:\\Users\\nhuta\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj": {}
   },
   "projects": {
@@ -12,6 +25,7 @@
         "projectPath": "C:\\Users\\nhuta\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
         "packagesPath": "C:\\Users\\nhuta\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\nhuta\\demo-.NET\\DemoMVC\\DemoMVC\\obj\\",
+>>>>>>> main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nhuta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

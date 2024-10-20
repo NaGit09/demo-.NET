@@ -45,3 +45,17 @@ VALUES (N'Bánh mặn 1', 30000, 50), (N'Bánh mặn 2', 35000, 30),
 INSERT INTO HANGHOA (TenHang, DonGia, SoLuongTon)
 VALUES (N'Bánh chay 1', 18000, 50), (N'Bánh chay 2', 20000, 30), 
        (N'Bánh chay 3', 22000, 20), (N'Bánh chay 4', 24000, 40);
+
+CREATE TABLE TAIKHOAN (
+        KhachHangId INT PRIMARY KEY NOT NULL,
+		MatKhau varchar(25) NOT NUll
+);
+ALTER TABLE GIOHANG
+ADD CONSTRAINT fk_id
+FOREIGN KEY (KhachHangId) REFERENCES TAIKHOAN(KhachHangId);
+
+alter table chitietgiohang 
+alter column mahang int not null 
+
+alter table chitietgiohang 
+alter column magiohang int not null 

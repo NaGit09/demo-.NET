@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "yBYGzlPL1pc=",
+  "success": true,
+  "projectFilePath": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+=======
   "dgSpecHash": "bKrvJbC3S3g=",
   "success": true,
   "projectFilePath": "C:\\Users\\nhuta\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+>>>>>>> main
   "expectedPackageFiles": [
     "C:\\Users\\nhuta\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\nhuta\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

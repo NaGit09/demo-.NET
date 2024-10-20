@@ -1,6 +1,8 @@
 ﻿using DemoMVC.Data;
+using DemoMVC.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Project_Seminar.Models;
 using static Project_Seminar.Models.HangHoaVM;
 
@@ -49,7 +51,34 @@ namespace Project_Seminar.Controllers
             return View();
         }
 
-       
+        //Nháp 
+        [HttpPost]
+        public IActionResult addGioHang( GioHang gioHang)
+        {
+            if (gioHang == null)
+            {
+                return BadRequest("Thông tin giỏ hàng không hợp lệ.");
+            }
+
+            // Thiết lập ngày tạo nếu chưa được thiết lập
+            if (gioHang.NgayTao == default)
+            {
+                gioHang.NgayTao = DateOnly.FromDateTime(DateTime.Now);
+            }
+
+            // Thêm giỏ hàng mới vào DB
+            _shopContext.Giohangs.Add(gioHang);
+
+            // Lưu thay đổi vào cơ sở dữ liệu
+            _shopContext.SaveChanges();
+
+            return View();
+        }
+
+
+
+
+
 
     }
 }
