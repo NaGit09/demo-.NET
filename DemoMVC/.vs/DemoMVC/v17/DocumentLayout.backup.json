@@ -1,105 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\",
+  "WorkspaceRootPath": "D:\\Git Test\\demo-.NET\\DemoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\views\\hanghoa\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\hanghoa\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\data\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\data\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\data\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\data\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\views\\hanghoa\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\views\\hanghoa\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\hanghoa\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\data\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\views\\hanghoa\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\hanghoa\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\data\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demowebmvc_restful-api\\demomvc\\demomvc\\demomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|d:\\git test\\demo-.net\\demomvc\\demomvc\\demomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F8B2ED19-FE5A-4118-A742-E4250C328E4E}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\demomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -110,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,86 +122,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "DemoMVC\\appsettings.json",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\appsettings.json",
-              "RelativeToolTip": "DemoMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-01T03:10:49.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T02:46:20.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "DemoMVC\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T10:55:27.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "DemoMVC\\appsettings.Development.json",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\appsettings.Development.json",
-              "RelativeToolTip": "DemoMVC\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-03T17:33:04.916Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "DemoMVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "DemoMVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T02:04:42.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Program.cs",
-              "RelativeDocumentMoniker": "DemoMVC\\Program.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Program.cs",
-              "RelativeToolTip": "DemoMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABMAAAAAAAAAA==",
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\GioHang.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Models\\GioHang.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T05:27:05.404Z"
+              "WhenOpened": "2024-10-04T17:03:21.329Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HangHoaController.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Controllers\\HangHoaController.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Controllers\\HangHoaController.cs",
               "RelativeDocumentMoniker": "DemoMVC\\Controllers\\HangHoaController.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Controllers\\HangHoaController.cs",
               "RelativeToolTip": "DemoMVC\\Controllers\\HangHoaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T05:29:36.493Z",
               "EditorCaption": ""
@@ -205,58 +148,46 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "DemoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T02:48:02.418Z"
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:29:35.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "DemoMVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "DemoMVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T05:29:29.691Z"
+              "DocumentIndex": 2,
+              "Title": "Giohang.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Giohang.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\Giohang.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Giohang.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\Giohang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:13:00.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "DemoMVC\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Properties\\launchSettings.json",
-              "RelativeToolTip": "DemoMVC\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-04T11:16:47.332Z"
+              "DocumentIndex": 5,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Models\\HangHoa.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\HangHoa.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Models\\HangHoa.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\HangHoa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:26:41.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "DemoMVC\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "DemoMVC\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-04T11:14:00.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "GioHang.cshtml",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\HangHoa\\GioHang.cshtml",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\HangHoa\\GioHang.cshtml",
               "RelativeDocumentMoniker": "DemoMVC\\Views\\HangHoa\\GioHang.cshtml",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\HangHoa\\GioHang.cshtml",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\HangHoa\\GioHang.cshtml",
               "RelativeToolTip": "DemoMVC\\Views\\HangHoa\\GioHang.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -264,35 +195,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\HangHoa\\Index.cshtml",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\HangHoa\\Index.cshtml",
               "RelativeDocumentMoniker": "DemoMVC\\Views\\HangHoa\\Index.cshtml",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\HangHoa\\Index.cshtml",
               "RelativeToolTip": "DemoMVC\\Views\\HangHoa\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T05:26:46.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Chitietdonhang.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Chitietdonhang.cs",
-              "RelativeDocumentMoniker": "DemoMVC\\Data\\Chitietdonhang.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Chitietdonhang.cs",
-              "RelativeToolTip": "DemoMVC\\Data\\Chitietdonhang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\ShopContext.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\ShopContext.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\ShopContext.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\ShopContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T16:25:57.098Z"
+              "WhenOpened": "2024-10-01T03:44:02.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "Chitietgiohang.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Chitietgiohang.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Chitietgiohang.cs",
               "RelativeDocumentMoniker": "DemoMVC\\Data\\Chitietgiohang.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Chitietgiohang.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Chitietgiohang.cs",
               "RelativeToolTip": "DemoMVC\\Data\\Chitietgiohang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,11 +231,155 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DonHang.cshtml",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\HangHoa\\DonHang.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\HangHoa\\DonHang.cshtml",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\HangHoa\\DonHang.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\HangHoa\\DonHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T16:11:15.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Program.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Program.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Program.cs",
+              "RelativeToolTip": "DemoMVC\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:27:05.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T02:04:42.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DemoMVC\\appsettings.Development.json",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\appsettings.Development.json",
+              "RelativeToolTip": "DemoMVC\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T17:33:04.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T10:55:27.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoMVC\\appsettings.json",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\appsettings.json",
+              "RelativeToolTip": "DemoMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T03:10:49.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T02:46:20.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T02:48:02.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T05:29:29.691Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoMVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T11:16:47.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DemoMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DemoMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-04T11:14:00.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Chitietdonhang.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Chitietdonhang.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Data\\Chitietdonhang.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Chitietdonhang.cs",
+              "RelativeToolTip": "DemoMVC\\Data\\Chitietdonhang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:25:57.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Donhang.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Donhang.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Donhang.cs",
               "RelativeDocumentMoniker": "DemoMVC\\Data\\Donhang.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Donhang.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Donhang.cs",
               "RelativeToolTip": "DemoMVC\\Data\\Donhang.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,22 +388,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Giohang.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Giohang.cs",
-              "RelativeDocumentMoniker": "DemoMVC\\Data\\Giohang.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Giohang.cs",
-              "RelativeToolTip": "DemoMVC\\Data\\Giohang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:13:00.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "site.js",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "DemoMVC\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\wwwroot\\js\\site.js",
               "RelativeToolTip": "DemoMVC\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -336,11 +399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Hanghoa.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Hanghoa.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Hanghoa.cs",
               "RelativeDocumentMoniker": "DemoMVC\\Data\\Hanghoa.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\Hanghoa.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Data\\Hanghoa.cs",
               "RelativeToolTip": "DemoMVC\\Data\\Hanghoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -348,59 +411,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ShopContext.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\ShopContext.cs",
-              "RelativeDocumentMoniker": "DemoMVC\\Data\\ShopContext.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Data\\ShopContext.cs",
-              "RelativeToolTip": "DemoMVC\\Data\\ShopContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAApwBkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T03:44:02.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "DemoMVC\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "DemoMVC\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T05:29:35.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "HangHoa.cs",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Models\\HangHoa.cs",
-              "RelativeDocumentMoniker": "DemoMVC\\Models\\HangHoa.cs",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Models\\HangHoa.cs",
-              "RelativeToolTip": "DemoMVC\\Models\\HangHoa.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T05:26:41.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DonHang.cshtml",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\HangHoa\\DonHang.cshtml",
-              "RelativeDocumentMoniker": "DemoMVC\\Views\\HangHoa\\DonHang.cshtml",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\HangHoa\\DonHang.cshtml",
-              "RelativeToolTip": "DemoMVC\\Views\\HangHoa\\DonHang.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T16:11:15.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "DemoMVC\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "DemoMVC\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -408,11 +423,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "DemoMVC.csproj",
-              "DocumentMoniker": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
               "RelativeDocumentMoniker": "DemoMVC\\DemoMVC.csproj",
-              "ToolTip": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
               "RelativeToolTip": "DemoMVC\\DemoMVC.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

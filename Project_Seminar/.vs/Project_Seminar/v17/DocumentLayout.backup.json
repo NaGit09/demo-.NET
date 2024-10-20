@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git Test\\demo-.NET\\Project_Seminar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\controllers\\chitietgiohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:controllers\\chitietgiohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\models\\giohangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:models\\giohangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\data\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:data\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\data\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:data\\chitietgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\project_seminar.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:project_seminar.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\models\\chitietgiohangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:models\\chitietgiohangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\models\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:models\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\data\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:data\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:data\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:data\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\models\\taikhoanvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:models\\taikhoanvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\data\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:data\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|d:\\git test\\demo-.net\\project_seminar\\project_seminar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7637389-209E-4AB0-96B1-E37E53536A25}|Project_Seminar.csproj|solutionrelative:project_seminar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chitietgiohang.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Chitietgiohang.cs",
+              "RelativeDocumentMoniker": "Data\\Chitietgiohang.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Chitietgiohang.cs",
+              "RelativeToolTip": "Data\\Chitietgiohang.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:43:24.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "Data\\Taikhoan.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Taikhoan.cs",
+              "RelativeToolTip": "Data\\Taikhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:26:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GioHangVM.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Models\\GioHangVM.cs",
+              "RelativeDocumentMoniker": "Models\\GioHangVM.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Models\\GioHangVM.cs",
+              "RelativeToolTip": "Models\\GioHangVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:12:04.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiohangController.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Controllers\\GiohangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GiohangController.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Controllers\\GiohangController.cs",
+              "RelativeToolTip": "Controllers\\GiohangController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:04:50.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:43:42.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChitietgiohangController.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Controllers\\ChitietgiohangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChitietgiohangController.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Controllers\\ChitietgiohangController.cs",
+              "RelativeToolTip": "Controllers\\ChitietgiohangController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:45:17.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaiKhoanController.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:08:04.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T10:16:46.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:22:28.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project_Seminar.http",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Project_Seminar.http",
+              "RelativeDocumentMoniker": "Project_Seminar.http",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Project_Seminar.http",
+              "RelativeToolTip": "Project_Seminar.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-12T10:22:27.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChitietgiohangVM.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Models\\ChitietgiohangVM.cs",
+              "RelativeDocumentMoniker": "Models\\ChitietgiohangVM.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Models\\ChitietgiohangVM.cs",
+              "RelativeToolTip": "Models\\ChitietgiohangVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T10:27:45.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Models\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "Models\\HangHoaVM.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Models\\HangHoaVM.cs",
+              "RelativeToolTip": "Models\\HangHoaVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:43:07.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Donhang.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Donhang.cs",
+              "RelativeDocumentMoniker": "Data\\Donhang.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Donhang.cs",
+              "RelativeToolTip": "Data\\Donhang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:43:23.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chitietdonhang.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Chitietdonhang.cs",
+              "RelativeDocumentMoniker": "Data\\Chitietdonhang.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Chitietdonhang.cs",
+              "RelativeToolTip": "Data\\Chitietdonhang.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:28:48.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Hanghoa.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Hanghoa.cs",
+              "RelativeDocumentMoniker": "Data\\Hanghoa.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Hanghoa.cs",
+              "RelativeToolTip": "Data\\Hanghoa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:43:09.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\ShopContext.cs",
+              "RelativeDocumentMoniker": "Data\\ShopContext.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\ShopContext.cs",
+              "RelativeToolTip": "Data\\ShopContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwB8AAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:29:22.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaiKhoanVM.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Models\\TaiKhoanVM.cs",
+              "RelativeDocumentMoniker": "Models\\TaiKhoanVM.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Models\\TaiKhoanVM.cs",
+              "RelativeToolTip": "Models\\TaiKhoanVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T08:26:31.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Giohang.cs",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Giohang.cs",
+              "RelativeDocumentMoniker": "Data\\Giohang.cs",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Data\\Giohang.cs",
+              "RelativeToolTip": "Data\\Giohang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:44:00.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Project_Seminar.csproj",
+              "DocumentMoniker": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Project_Seminar.csproj",
+              "RelativeDocumentMoniker": "Project_Seminar.csproj",
+              "ToolTip": "D:\\Git Test\\demo-.NET\\Project_Seminar\\Project_Seminar.csproj",
+              "RelativeToolTip": "Project_Seminar.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T10:22:31.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

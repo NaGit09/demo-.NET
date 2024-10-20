@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OAj0osv5gec=",
+  "dgSpecHash": "yBYGzlPL1pc=",
   "success": true,
-  "projectFilePath": "D:\\Git Test\\DemoWebMVC_Restful-API\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
+  "projectFilePath": "D:\\Git Test\\demo-.NET\\DemoMVC\\DemoMVC\\DemoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Van Tran\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Van Tran\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -30,7 +30,9 @@
 
                 <!-- Nút "Thêm vào giỏ" -->
                 <div class="text-center mt-2">
-                    <a asp-controller="GioHang" asp-action="AddToCart" asp-route-id="@hangHoa.MaHang" class="btn btn-primary">
+                    <a href="javascript:void(0);"
+                       onclick="confirmAddToCart('@Url.Action("AddToCart", "GioHang", new { id = hangHoa.MaHang })')"
+                       class="btn btn-primary">
                         Thêm vào giỏ
                     </a>
                 </div>
@@ -39,5 +41,40 @@
     </div>
 </div>
 <!-- Categories End -->
+
+<!-- JavaScript for Confirmation -->
+<script type="text/javascript">
+    function addToCart(maHang) {
+        const url = '/api/giohang/add'; // Thay đổi URL này cho phù hợp với API của bạn
+
+        // Dữ liệu gửi đi
+        const data = {
+            maHang: maHang,
+            soLuong: 1 // Có thể điều chỉnh số lượng nếu cần
+        };
+
+        // Gửi yêu cầu POST
+        fetch(url, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(data)
+        })
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Có lỗi xảy ra khi thêm vào giỏ hàng.');
+            }
+            return response.json();
+        })
+        .then(data => {
+            alert('Sản phẩm đã được thêm vào giỏ hàng thành công!');
+        })
+        .catch(error => {
+            console.error('Lỗi:', error);
+            alert('Không thể thêm sản phẩm vào giỏ hàng. Vui lòng thử lại.');
+        });
+    }
+</script>
 
 
