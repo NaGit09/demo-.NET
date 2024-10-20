@@ -17,43 +17,43 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DemoMVC
 build_property.RootNamespace = DemoMVC
-build_property.ProjectDir = D:\Git Test\demo-.NET\DemoMVC\DemoMVC\
+build_property.ProjectDir = C:\Users\nhuta\demo-.NET\DemoMVC\DemoMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Git Test\demo-.NET\DemoMVC\DemoMVC
+build_property.MSBuildProjectDirectory = C:\Users\nhuta\demo-.NET\DemoMVC\DemoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Git Test/demo-.NET/DemoMVC/DemoMVC/Views/HangHoa/DonHang.cshtml]
+[C:/Users/nhuta/demo-.NET/DemoMVC/DemoMVC/Views/HangHoa/DonHang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxEb25IYW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Test/demo-.NET/DemoMVC/DemoMVC/Views/HangHoa/GioHang.cshtml]
+[C:/Users/nhuta/demo-.NET/DemoMVC/DemoMVC/Views/HangHoa/GioHang.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxHaW9IYW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Test/demo-.NET/DemoMVC/DemoMVC/Views/HangHoa/Index.cshtml]
+[C:/Users/nhuta/demo-.NET/DemoMVC/DemoMVC/Views/HangHoa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Test/demo-.NET/DemoMVC/DemoMVC/Views/Shared/Error.cshtml]
+[C:/Users/nhuta/demo-.NET/DemoMVC/DemoMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Test/demo-.NET/DemoMVC/DemoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/nhuta/demo-.NET/DemoMVC/DemoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Test/demo-.NET/DemoMVC/DemoMVC/Views/_ViewImports.cshtml]
+[C:/Users/nhuta/demo-.NET/DemoMVC/DemoMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Test/demo-.NET/DemoMVC/DemoMVC/Views/_ViewStart.cshtml]
+[C:/Users/nhuta/demo-.NET/DemoMVC/DemoMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Git Test/demo-.NET/DemoMVC/DemoMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/nhuta/demo-.NET/DemoMVC/DemoMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hzgfhw30l6
